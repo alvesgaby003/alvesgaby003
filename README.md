@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**alvesgaby003/alvesgaby003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Gabriele Alves
+- estou estudando na Alura
+- estou me desenvolvendo na linguagem javaScript📘
+- utilizo esse espaço para minha organização e compartilhamento de meus projetos desenvouvidos✨
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato comigo 📫
+gabriele.quadros.alves@escola.pr.gov.br
+
+![](https://github.com/user-attachments/assets/0287f07b-7429-4372-8689-f5da6690c002)
+
